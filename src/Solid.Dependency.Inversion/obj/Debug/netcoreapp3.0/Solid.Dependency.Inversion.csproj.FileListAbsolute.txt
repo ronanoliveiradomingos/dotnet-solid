@@ -1,0 +1,11 @@
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\obj\Debug\netcoreapp3.0\Solid.Dependency.Inversion.csprojAssemblyReference.cache
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\obj\Debug\netcoreapp3.0\Solid.Dependency.Inversion.AssemblyInfoInputs.cache
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\obj\Debug\netcoreapp3.0\Solid.Dependency.Inversion.AssemblyInfo.cs
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\bin\Debug\netcoreapp3.0\Solid.Dependency.Inversion.exe
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\bin\Debug\netcoreapp3.0\Solid.Dependency.Inversion.deps.json
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\bin\Debug\netcoreapp3.0\Solid.Dependency.Inversion.runtimeconfig.json
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\bin\Debug\netcoreapp3.0\Solid.Dependency.Inversion.runtimeconfig.dev.json
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\bin\Debug\netcoreapp3.0\Solid.Dependency.Inversion.dll
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\bin\Debug\netcoreapp3.0\Solid.Dependency.Inversion.pdb
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\obj\Debug\netcoreapp3.0\Solid.Dependency.Inversion.dll
+D:\projetos\dotnet-solid\src\Solid.Dependency.Inversion\obj\Debug\netcoreapp3.0\Solid.Dependency.Inversion.pdb
